@@ -1,4 +1,10 @@
-# About me
+## Hi there 👋
+
+![RishiDev's github stats](https://github-readme-stats.vercel.app/api?username=Rishiraj0100&show_icons=true&theme=tokyonight)
+
+![RishiDev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj0100&show_icons=true&theme=tokyonight)
+
+## About me
 ### I am Rishidev from india
 
 
@@ -9,4 +15,5 @@
 - 💬 Ask me about Python Coding
 - 📫 How to reach me: [discord server]
 - 😄 Pronouns: `He/Him`
+
 
