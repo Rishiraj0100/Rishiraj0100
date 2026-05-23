@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-![RishiDev's github stats](https://github-readme-stats.vercel.app/api?username=Rishiraj0100&show_icons=true&theme=tokyonight)
-
-![RishiDev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiraj0100&show_icons=true&theme=tokyonight)
+![Streaks](https://streak-stats.demolab.com/?user=rishiraj0100&theme=tokyonight&hide_border=false)
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=rishiraj0100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Stats](https://github-readme-stats.shion.dev/api?username=rishiraj0100&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rishiraj0100&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=3&margin-h=10)
 
 ## About me
-### I am Cdt. Rishi from india
+### I am Cdt Rishi
 
 
-- 🔭 I’m currently working on Mts bot
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on [oreznet](https://oreznet.co.in)
+- 🌱 I’m currently learning [React.JS](https://react.dev)
 - 💬 Ask me about Python Coding
 - 📫 How to reach me: [discord server](https://discord.gg/zdrSUu98BP)
 - 😄 Pronouns: `He/Him`
